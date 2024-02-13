@@ -4,6 +4,8 @@ format: html
 editor: source
 embed-resources: true
 self-contained: true
+author: Miguel, Daniel, Deven, Aaron
+
 ---
 
 ## Quarto
